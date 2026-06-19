@@ -77,6 +77,14 @@ OpenCart-Demo-Testing
 └── README.md
 ```
 
+## Sample Test Cases
+
+![Test Cases](Screenshot 2026-06-20 021851.png)
+
+## Sample Bug Reports
+
+![Bug Reports](Screenshot 2026-06-20 024534.png)
+
 ## Author
 
 Abdulrahman Rohaym

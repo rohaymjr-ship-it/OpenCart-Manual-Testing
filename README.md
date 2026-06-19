@@ -79,11 +79,11 @@ OpenCart-Demo-Testing
 
 ## Sample Test Cases
 
-![Test Cases](Test Cases/Screenshots/Screenshot 2026-06-20 021851.png)
+![Test Cases](Screenshots/Screenshot%202026-06-20%20021851.png)
 
 ## Sample Bug Reports
 
-![Bug Reports](Bug Report/Screenshots/Screenshot 2026-06-20 024534.png)
+![Bug Reports](Screenshots/Screenshot%202026-06-20%20024534.png)
 
 ## Author
 

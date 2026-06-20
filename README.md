@@ -83,7 +83,7 @@ OpenCart-Demo-Testing
 
 ## Sample Bug Reports
 
-![Bug Reports]([Bug Report/Screenshots/sample3.png](https://github.com/rohaymjr-ship-it/OpenCart-Manual-Testing/blob/main/Bug%20Report/Screenshots/sample3.png?raw=true))
+![Bug Reports](https://github.com/rohaymjr-ship-it/OpenCart-Manual-Testing/blob/main/Test%20Cases/Screenshots/sample4.png))
 
 ## Author
 

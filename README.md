@@ -65,15 +65,47 @@ The following modules were tested:
 | Failed | 21 |
 | Bugs Found | 20 |
 
+## Test Environment
+
+| Item                | Details        |
+| ------------------- | -------------- |
+| Website             | OpenCart Demo  |
+| Browser             | Google Chrome  |
+| Testing Type        | Manual Testing |
+| Operating System    | Windows 11     |
+| Test Execution Date | June 2026      |
+
+## Key Findings
+
+During testing, 20 defects were identified across different modules, including registration, login, search, shopping cart, and checkout functionalities. The reported issues were documented with detailed reproduction steps, expected results, actual results, severity, and priority.
+
+## Skills Demonstrated
+
+* Test Case Design
+* Test Scenario Creation
+* Bug Reporting
+* Functional Testing
+* UI Testing
+* Smoke Testing
+* Regression Testing
+* Defect Documentation
+* Test Execution
+* Test Reporting
+
+
 ## Repository Structure
 
 ```
-OpenCart-Demo-Testing
+OpenCart-Manual-Testing
+│
+├── Bug Report
+│   ├── Screenshots
+│   └── opencart_bug_reports.xlsx
 │
 ├── Test Cases
-├── Test Scenarios
-├── Bug Reports
-├── Screenshots
+│   ├── Screenshots
+│   └── opencart_test_cases.xlsx
+│
 └── README.md
 ```
 
@@ -84,11 +116,11 @@ OpenCart-Demo-Testing
 ## Sample Bug Reports
 
 ![Bug Reports](https://github.com/rohaymjr-ship-it/OpenCart-Manual-Testing/blob/main/Bug%20Report/Screenshots/sample3.png)
+
+
 ## Author
 
-Abdulrahman Rohaym
-
+**Abdulrahman Rohaym**  
 Junior QA Engineer
 
-LinkedIn:
-[(LinkedIn profile)](https://www.linkedin.com/in/abdulrahman-rohaym/)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/abdulrahman-rohaym/)

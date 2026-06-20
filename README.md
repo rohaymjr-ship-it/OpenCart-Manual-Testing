@@ -79,7 +79,7 @@ OpenCart-Demo-Testing
 
 ## Sample Test Cases
 
-![Test Cases]([[Test Cases/Screenshots/sample4.png](https://github.com/rohaymjr-ship-it/OpenCart-Manual-Testing/blob/main/Test%20Cases/Screenshots/sample4.png?raw=true](https://github.com/rohaymjr-ship-it/OpenCart-Manual-Testing/blob/main/Test%20Cases/Screenshots/sample4.png)))
+![Test Cases]((https://github.com/rohaymjr-ship-it/OpenCart-Manual-Testing/blob/main/Test%20Cases/Screenshots/sample4.png))
 
 ## Sample Bug Reports
 
